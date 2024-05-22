@@ -1,0 +1,1065 @@
+<resources>
+
+    <string name="title_activity_main_fragment">mainFragment</string>
+    <string name="app_name">Dessertly</string>
+    <string name="tab_text_1">Information</string>
+    <string name="tab_text_2">Ingredients</string>
+    <string name="tab_text_3">Method</string>
+
+    //cookie data
+    <string name="cookie1Desc">Fast and easy to prepare cookies. The results speak for itself – best chocolate chip cookies.</string>
+    <string name="cookie1Ingred">•	1 2/3 cups (208 grams) cake flour\n
+•	1 2/3 cups (208 grams) bread flour\n
+•	1 1/4 teaspoon baking soda\n
+•	1 1/2 teaspoon baking powder\n
+•	1 1/4 cups (284g) unsalted butter, room temperature\n
+•	1 1/2 teaspoon coarse salt\n
+•	1 cup (200g) granulated sugar\n
+•	1 1/4 cup (10 ounces or 225g) packed light brown sugar\n
+•	2 large eggs, room temperature\n
+•	2 teaspoons McCormick vanilla extract\n
+•	16 ounces (about 3 cups) chocolate chips or chunks (I use a combination of both and reserve a few to place on top of the cookie before baking)</string>
+    <string name="cookie1Meth">•	Sift flours, baking soda, baking powder and salt into a bowl and set aside.\n
+        \n
+•	Using a mixer with a paddle attachment, cream butter and sugars until light and fluffy, 3 to 5 minutes.\n
+        \n
+•	Reduce speed and add eggs one at a time, then add vanilla.\n
+        \n
+•	Slowly add dry ingredients, mixing until just combined.\n
+        \n
+•	Fold in chocolate chips by hand. Refrigerate dough for24-36 hours.\n
+        \n
+•	When ready to bake, preheat oven to 350°F. Remove dough from refrigerator and allow to come to room temperature.\n
+        \n
+•	Drop spoonfuls (2-3 tablespoons) of dough onto baking sheet. Bake for 10-12 minutes.\n
+        \n
+•	Cool on wire rack.\n</string>
+    <string name="cookie2Desc">These chocolate brownie cookies are everything you love about a good, fudgy, crinkly brownie…in a cookie!</string>
+    <string name="cookie2Ingred">BROWNIE\n
+    •	1/2 cup (113g) butter melted, then cooled\n
+    •	1 cup (200g) granulated sugar\n
+    •	1/3 cup (40g) unsweetened cocoa powder sifted\n
+    •	1/2 cup (64g) all-purpose flour\n
+    •	1/4 teaspoon salt\n
+    •	1/4 teaspoon baking powder\n
+    •	2 eggs room temperature\n
+    •	1 teaspoon vanilla extract\n
+    CHOCOLATE COOKIE\n
+    •	2 1/2 cups (320g) all-purpose flour\n
+    •	1/2 cup (64g) cocoa powder\n
+    •	2 teaspoons corn starch\n
+    •	1 teaspoon baking soda\n
+    •	1/2 teaspoon salt\n
+    •	1 cup (226g) cold butter, cut into cubes\n
+    •	1 cup (200g) brown sugar, packed\n
+    •	1/2 cup (100g) granulated sugar\n
+    •	2 large eggs\n
+        •	1 1/2 cups semi-sweet mini chocolate chips, divided.\n</string>
+    <string name="cookie2Meth">BROWNIE\n
+        \n
+    •	Melt butter and set aside to cool.\n
+        \n
+    •	Sift together all dry ingredients.\n
+        \n
+    •	In a medium bowl, beat two eggs with the vanilla. Add in and gently stir dry ingredients. Pour the melted butter into brownie mixture and mix until just incorporated.\n
+        \n
+    •	Spread batter in a prepared 9x13 pan and bake for 15-20 minutes at 350°F.\n
+        \n
+    •	Use a toothpick to test the brownies and note that they will be thin. (I have removed them right at 15 minutes before.)  If when removed a few crumbs remain but there is no wet batter, the brownies are done.\n
+        \n
+    •	Set aside to cool.\n
+        \n
+    CHOCOLATE COOKIES\n
+        \n
+    •	Heat oven to 350°F.\n
+        \n
+    •	In a medium bowl, sift together the flour, cocoa powder, cornstarch, baking soda, and salt and set aside. Don\'t skip this step!\n
+        \n
+    •	In the bowl of a stand mixer, cream together the butter and sugars until incorporated. There may be some small butter cubes and that is ok.\n
+        \n
+    •	Add in eggs one at a time and mix until incorporated.\n
+        \n
+    •	With the mixer on low, add in the dry ingredients. Mix until combined. (about 30 seconds) Cookie dough will be thick.\n
+        \n
+    •	Remove bowl from stand mixer and fold in 1/2 cup of semi-sweet chocolate chips.\n
+        \n
+    •	Flip brownies onto a cutting board and cut off hard edges on all sides and discard. (or have a little snack!)\n
+        \n
+    •	Cut the brownies into small bite-sized pieces. I found that about 1/2 inch across and wide was the perfect size. (I used 4 cups total which was about 3/4 of the brownies.) Fold into batter.\n
+        \n
+    •	Prepare cookie sheets with parchment paper.\n
+        \n
+    •	Using a scoop that holds about 2 tablespoons of batter, scoop out cookie dough onto baking sheet.\n
+        \n
+    •	Pick up each rounded cookie and dunk into a bowl with the remaining mini chocolate chips. Press the dough cookie into the bowl to flatten it and fully cover the cookie.\n
+        \n
+    •	Set the dough cookie on the sheet and repeat with remaining cookies. (You should be able to fit 8 on one sheet as the cookies do not spread too much.)\n
+        \n
+        •	Bake for 8-10 minutes. Allow cookies to rest on pan for at least 5 minutes.\n</string>
+    <string name="cookie3Desc">Coconut sugar makes these cookies taste like they have a lot more goin’ on than they really do: they’re really just a plain sugar cookie. What coconut sugar brings to the party is a molasses-y, spicy flavor.</string>
+    <string name="cookie3Ingred">•	2 3/4 cups (358g) all-purpose flour\n
+    •	1/2 tsp baking powder\n
+    •	1/2 tsp salt\n
+    •	3/4 cup (168g) unsalted butter, room temperature\n
+    •	1 1/2 cups (310g) sugar\n
+    •	2 large eggs, room temperature\n
+    •	2 tsp coconut extract\n
+    •	1/2 cup (104g) sugar, for rolling cookies\n
+    •	7 oz white/vanilla melting wafers (I used Ghirardelli)\n
+        •	Sprinkles</string>
+    <string name="cookie3Meth">1. Preheat oven to 350°F (180°C). Line baking sheets with parchment paper or silicone baking mats. Set aside.\n
+        \n
+    2. Combine the flour, baking powder and salt in a medium sized bowl and set aside.\n
+        \n
+    3. Cream the butter and sugar together in a larger mixer bowl on medium speed until light in color and fluffy.\n
+        \n
+    4. Add the eggs one at a time, mixing until well combined after each. Add the coconut extract an mix until well combined.\n
+        \n
+    5. Add the dry ingredients to the butter mixture and mix until the dough comes together and is combined.\n
+        \n
+    6. Create 1 1/2 tablespoon sized balls of cookie dough. Gently roll into a ball, then roll each ball in sugar to coat. Set the balls on the baking sheet.\n
+        \n
+    7. Use the bottom of a glass to press down lightly on the balls of dough, so that the dough balls are about 1/2 inch wide.\n
+        \n
+    8. Bake cookies for 8-10 minutes. The cookies will spread a bit and the centers will look soft. Don’t over bake.\n
+        \n
+    9. Remove from the oven and allow to cool on baking sheets for 3-4 minutes before transferring to a wire rack to cool completely.\n
+        \n
+    10. When the cookies are cool, add the melting wafers to a small bowl and melt according to package instructions.\n
+        \n
+    11. Add the melted chocolate to a piping bag with a small round icing tip (I used Wilton 3) and drizzle over the cookies. If you won’t have a piping bag and icing tip, you can use a ziplock bag and snip off a small part of one corner of the bag.\n
+        \n
+    12. Add the sprinkles to the chocolate while still melted. Allow chocolate to dry.\n
+        \n
+        13. Cookies will stay fresh in an airtight container at room temperature for 4-5 days.\n</string>
+    <string name="cookie4Desc">These cookies are perfect for picnics and dinner parties, alike…and they also make an amazing gift. If you’re looking for a chocolate chip cookie recipe that will wow your family and friends,  look no further. </string>
+    <string name="cookie4Ingred">•	1 cup butter softened\n
+•	½ cup brown sugar\n
+•	½ cup sugar\n
+•	1 large box 5.1 oz Instant Vanilla Pudding mix\n
+•	2 eggs\n
+•	1 tsp vanilla\n
+•	2 ½ cups flour\n
+•	1 tsp baking soda\n
+•	1 cup semi-sweet chocolate chips\n
+•	1 cup fresh raspberries halved</string>
+    <string name="cookie4Meth">1.	Cream the butter and sugars. Add the pudding mix and mix until well blended. Add the eggs and vanilla and mix well.\n
+        \n
+2.	Add the flour and baking soda and continue mixing.\n
+        \n
+3.	Stir in the chocolate chips and then very gently fold in the raspberries.\n
+        \n
+4.	Drop cookies by rounded teaspoonfuls (I use a cookie scoop) onto a greased cookie sheet (or a high quality non-stick cookie sheet).\n
+        \n
+5.	Bake for about 10 minutes at 350. Enjoy!\n</string>
+    <string name="cookie5Desc">This crowd-pleasing recipe features crunchy peanut butter and is quick and easy to prepare.</string>
+    <string name="cookie5Ingred">•	2 1/2 c. all-purpose flour\n
+•	1 tsp. baking soda\n
+•	1/2 tsp. baking powder\n
+•	1/2 tsp. kosher salt\n
+•	1 c. (2 sticks) butter, softened\n
+•	1 gr granulated sugar\n
+•	1 c. packed brown sugar\n
+•	2 large eggs\n
+•	1 1/2 c. creamy peanut butter</string>
+    <string name="cookie5Meth">1.	In a large bowl, whisk together flour, baking soda, baking powder, and salt.\n
+        \n
+2.	Using a stand or hand mixer, beat butter and sugars on medium speed until very fluffy, 2 minutes. Beat in eggs one at a time, mixing well after each addition. Add peanut butter and continue mixing until mixture is completely smooth and fluffy, 2 to 3 minutes more.\n
+        \n
+3.	Add flour mixture in batches and continue mixing, scraping sides of bowl as you go. Refrigerate batter 1 hour.\n
+        \n
+4.	When ready to bake, preheat oven to 350° and line two baking sheets with parchment. Drop tablespoons of dough on prepared baking sheets, about 2” apart.\n
+        \n
+5.	Using a fork, score cookies with a cross-hatch pattern.\n
+        \n
+6.	Bake until golden, 15 to 18 minutes. Transfer to wire rack to let cool before serving.\n</string>
+    <string name="cookie6Desc">Red velvet cake in cookie form—that\'s what you\'ve got here with these Red Velvet Cookies! Cream cheese and white chocolate chips lend tanginess and sweetness to every bite.</string>
+    <string name="cookie6Ingred">•	1 and 1/2 cups + 1 Tablespoon (198g) all-purpose flour (spoon and leveled)\n
+•	1/4 cup (21g) unsweetened natural cocoa powder\n
+•	1 teaspoon baking soda\n
+•	1/4 teaspoon salt\n
+•	1/2 cup (115g) unsalted butter, softened to room temperature\n
+•	3/4 cup (150g) packed light or dark brown sugar\n
+•	1/4 cup (50g) granulated sugar\n
+•	1 large egg, at room temperature*\n
+•	1 Tablespoon milk (I use buttermilk)\n
+•	2 teaspoons pure vanilla extract\n
+•	1 Tablespoon red food coloring (liquid, gel, or 2 tsp beet powder alternative)*\n
+•	1 cup (180g) semi-sweet chocolate chips (plus a few extra for after baking\n
+</string>
+    <string name="cookie6Meth">1.	Whisk the flour, cocoa powder, baking soda, and salt together in a large bowl. Set aside.\n
+        \n
+2.	Using a handheld or stand mixer with a paddle attachment, beat the butter on high speed until creamy, about 1 minute. Scrape down the sides and the bottom of the bowl as needed. Beat in the brown sugar and granulated sugar until combined and creamy, about 1 minute. Beat in the egg, milk, and vanilla extract, scraping down the sides and bottom of the bowl as needed. Once mixed, add the food coloring and beat until combined. Turn the mixer off and pour the dry ingredients into the wet ingredients. Turn the mixer on low and slowly beat until a very soft dough is formed. Beat in more food coloring if you’d like the dough to be brighter red. On low speed, beat in the chocolate chips. The dough will be sticky.\n
+        \n
+3.	Cover the dough tightly with aluminum foil or plastic wrap and chill for at least 1 hour (and up to 3 days– see make ahead tip). Chilling is mandatory.\n
+        \n
+4.	Preheat oven to 350°F (177°C). Line two large baking sheets with parchment paper or silicone baking mats. Set aside.\n
+        \n
+5.	Scoop 1.5 Tablespoons of dough and roll into a ball, as pictured above. Place 9 balls onto each baking sheet. Bake each batch for 11-12 minutes. The cookies may have only spread slightly, that’s ok. Simply press down on the warm cookies to slightly flatten and form crinkles. Stick a few chocolate chips into the tops of the warm cookies (as explained in the post above) – that’s optional and only for looks.\n
+        \n
+6.	Allow the cookies to cool on the cookie sheet for 5 minutes before transferring to a wire rack to cool completely.\n
+</string>
+    <string name="cookie7Desc">Soft dark chocolate cookies, roll them in hazelnuts or sprinkles — and enjoy!</string>
+    <string name="cookie7Ingred">•	2 1/2 sticks unsalted butter, at room temperature\n
+•	2 cups sugar\n
+•	2 large eggs\n
+•	1 tablespoon vanilla extract\n
+•	3/4 cup Dutch process cocoa powder\n
+•	2 cups all-purpose flour\n
+•	1 teaspoon baking soda\n
+•	1/2 teaspoon salt\n
+•	White Sanding sugar, for garnish\n
+</string>
+    <string name="cookie7Meth">1.	In a large bowl, add the butter and sugar and cream together with a hand mixer. Add the eggs and vanilla extract to the creamed mixture and mix until combined. In a medium bowl, mix the cocoa powder, flour, baking soda, and salt. Slowly add the dry ingredients and continue mixing until incorporated.\n
+        \n
+2.	Roll the dough into 2 logs that are about 2-inches high and 1-foot long. Wrap them in waxed paper and place in the refrigerator for 2 hours.\n
+        \n
+3.	Preheat oven to 350 degrees F.\n
+        \n
+4.	Once thoroughly chilled, slice the cookies into 1/2-inch thick rounds and cover with sanding sugar. Place on a parchment paper lined cookie sheet and bake for 10 minutes.\n
+        \n
+5.	Remove to a wire rack to cool.\n
+</string>
+    <string name="cookie8desc">Rainbow Chocolate Chip Cookies are a chewy, colorful and totally festive chocolate chip cookie recipe!</string>
+    <string name="cookie8Ingred">•	Ingredients: 1 cup butter, room temperature\n
+•	1 cup granulated sugar\n
+•	1/2 cup light brown sugar\n
+•	2 teaspoons vanilla\n
+•	2 eggs\n
+•	1 teaspoon kosher salt\n
+•	1 teaspoon baking soda\n
+•	3 cups flour\n
+•	2 cups chocolate chips\n
+•	4 different colors food coloring
+</string>
+    <string name="cookie8Meth">1.	Preheat the oven to 350°F. Line a baking sheet with parchment paper and set aside.\n
+        \n
+2.	In the bowl of your stand mixer fitted with the paddle attachment mix the butter and both sugars together for 2 minutes on medium speed until light and fluffy. Add in the egg, vanilla, salt, and baking soda and continue mixing for 1 minute until smooth, scraping the sides of the bowl as necessary.\n
+        \n
+3.	Turn the mixer to low and add in the flour, mixing until just incorporated.\n
+        \n
+4.	Stir in the chocolate chips evenly.\n
+        \n
+5.	Divide the cookie dough into 4 equal portions. Using the food coloring, color the doughs as desired.\n
+        \n
+6.	Roll each colored dough into approximately a 15-inch rope.Place each colored rope next to each other on a large piece of cling wrap. Wrap the cling wrap up tightly, pressing the doughs together forming a large log. Remove the cling wrap and breaking off the dough with your hands into approximately 2-tablespoon portions. Roll the dough into a loose ball and place it onto the prepared baking sheet and bake for 9 minutes or until the edges are set. Don’t over bake these!!\n
+        \n
+7.	Allow the cookies to cool on the baking sheet for 3-4 minutes and then transfer to a wire rack to cool completely.\n
+</string>
+    <string name="cookie9desc">This chewy chocolate chip biscuit recipe makes enough to keep the tins filled for the week or you can freeze some mixture for when you need a quick fix!</string>
+    <string name="cookie9Ingred">•	1 ¼ cups margarine, softened\n
+•	2 cups white sugar\n
+•	2 eggs\n
+•	2 teaspoons vanilla extract\n
+•	2 cups all-purpose flour\n
+•	¾ cup unsweetened cocoa powder\n
+•	1 teaspoon baking soda\n
+•	⅛ teaspoon salt\n
+•	1 cup chopped walnuts
+</string>
+    <string name="cookie9Meth">•	Preheat oven to 350 degrees F (175 degrees C).\n
+        \n
+•	In a large bowl, cream together margarine and sugar until smooth. Beat in eggs one at a time, then stir in the vanilla. Combine flour, cocoa, baking soda, and salt; stir into the creamed mixture until just blended. Mix in walnuts. Drop by spoonfuls onto ungreased cookie sheets.\n
+        \n
+•	Bake for 8 to 10 minutes in the preheated oven. Cool for a couple of minutes on the cookie sheet before transferring to wire racks to cool completely.\n
+</string>
+    <string name="cookie10Desc">These cookies are for real Chocolate lovers! it is chocolate temptation which is easy and quick to prepare</string>
+    <string name="cookie10Ingred">•	110 g butter (softened)\n
+•	3/4 cup brown sugar\n
+•	1 egg\n
+•	1 tsp vanilla extract\n
+•	1 cup plain flour\n
+•	1/4 cup cocoa\n
+•	1 tsp bicarbonate of soda\n
+•	125 g milk chocolate (melted)\n
+•	100 g milk chocolate (chopped into pieces,roughly chopped)\n
+•	200 g white chocolate chips
+</string>
+    <string name="cookie10Meth">•	Preheat your oven to 160C (140C fan-forced) and line two trays with baking paper. Place the butter and brown sugar into the bowl of an electric mixer and beat until light and creamy. Add the egg and vanilla extract and beat for 2-3 minutes until well combined.\n
+        \n
+•	Remove the bowl from the mixer stand and add the flour, cocoa, bicarbonate of soda and melted chocolate to the bowl. Add the extra chopped milk chocolate and white chocolate chips and stir with a large spoon to combine. Don’t worry if your mixture doesn’t start to come together straight away, it can take a minute or two to combine.\n
+\n
+•	Use a dessert spoon to scoop up the double chocolate chip biscuit mixture and roll it into balls. If you find your mixture is quite soft, place it in the fridge for 10 minutes to firm up a little. Place the balls onto your prepared baking trays and flatten slightly. Repeat, making sure you leave approximately a 3cm gap between each biscuit, until all the mixture has been used.\n
+\n
+•	Bake for 10-12 minutes, or until slight cracks have formed on top of the biscuits, before cooling on the baking trays for 5 minutes and carefully transferring to a wire rack to cool completely.\n
+</string>
+    <string name="cookie11Desc">Healthy cookies with a coconut note. Allows you some healthy and yum snacks for a break.</string>
+    <string name="cookie11Ingred">•	3 tbsp butter\n
+•	1 egg\n
+•	1/2 cup of raw sugar\n
+•	1 cup of self raising flour\n
+•	1 cup of coconut\n
+•	1 cup of unprocessed bran
+</string>
+    <string name="cookie11Meth">1.	Cream butter and sugar.\n
+        \n
+2.	Add beaten egg and sifted flour, coconut and bran. Mix to a dough.\n
+        \n
+3.	Roll into balls and press on a greased tray.\n
+        \n
+4.	Bake in a slow oven until browned 15-20 minutes.\n
+        \n
+5.	Ice them with chocolate icing with a dash of coconut. Or you can sprinkle raw sugar over the top, or press a thumb hole and add your favourite jam. Warning very yum.\n
+</string>
+    <string name="cookie12Desc">These soft banana cookies have a cake-like texture and lots of flavor that everyone seem to love.</string>
+    <string name="cookie12Ingred">•	50g unsalted butter, room temperature\n
+        \n
+•	1 cup (200g) brown sugar\n
+•	1 egg, lightly beaten\n
+•	2 ripe bananas, mashed\n
+•	1 tsp baking soda\n
+•	2 cups (300g) plain flour\n
+•	1/2 tsp cinnamon\n
+•	1/2 cup (190g) chocolate chips\n
+</string>
+    <string name="cookie12Meth">•	Preheat oven to 200°C (180°C fan-forced). Line a baking tray with baking paper and set aside.\n
+        \n
+•	Cream the butter and sugar together until light and fluffy. Add egg and beat to combine.\n
+        \n
+•	In a bowl, mix the mashed bananas and baking soda, set aside for two minutes.\n
+        \n
+•	Mix the banana mixture into the butter mixture with a wooden spoon. Mix together the flour and cinnamon and stir into the butter and banana mixture with a wooden spoon until just combined.\n
+        \n
+•	Fold in the chocolate chips.\n
+        \n
+•	Drop dollops of the mixture on a tray. Bake for 10-15 minutes or until golden. Place on wire racks to cool.\n
+</string>
+    <string name="cookie13Desc">Description: A Chock full of raisins and cinnamon, these cookies are perfect for a lunchbox treat or a snack in between.</string>
+    <string name="cookie13Ingred">•	75 g Flora Buttery\n
+•	55 g caster sugar\n
+•	100 g brown sugar\n
+•	1 egg (medium)\n
+•	1 tsp vanilla essence\n
+•	100 g raisins (chopped)\n
+•	175 g self-raising flour (sieved)\n
+•	2 tsp ground cinnamon\n
+•	1/2 tsp bicarbonate of soda
+</string>
+    <string name="cookie13Meth">•	Preheat hot oven to 190°C (170°C fan-forced). Place all the ingredients in a mixing bowl and beat together with a wooden spoon until well mixed.\n
+        \n
+•	Place teaspoons of the mixture on baking sheets, previously brushed with Flora. Be sure to leave room between each cookie as they do spread.\n
+\n
+•	Bake on the middle shelf of oven for 8–10 minutes. Cool on a wire tray\n
+</string>
+
+    //cake data
+    <string name="cake1Desc">Top this classic carrot cake with moreish cream cheese icing and chopped walnuts or pecans. Serve as a sweet treat with a cup of tea any time of the day</string>
+    <string name="cake1Ingred">•	•	235ml vegetable oil, plus extra for the tin\n
+•	100g natural yogurt\n
+•	4 large eggs\n
+•	1½ tsp vanilla extract\n
+•	½ an orange\n
+•	265g self-raising flour\n
+•	335g light muscovado sugar\n
+•	2½ tsp ground cinnamon\n
+•	¼ fresh nutmeg finely grated\n
+•	265g carrots  (about 3), grated\n
+•	100g sultanas or raisins\n
+•	100g walnuts or pecans, roughly chopped (optional)\n
+•	For the icing\n
+•	100g slightly salted butter softened\n
+•	300g icing sugar\n
+•	100g full-fat cream cheese\n
+</string>
+    <string name="cake1Meth">•	Heat oven to 180C/160C fan/gas 4. Oil and line the base and sides of two 20cm cake tins with baking parchment. Whisk the oil, yogurt, eggs, vanilla and zest in a jug. Mix the flour, sugar, cinnamon and nutmeg with a good pinch of salt in a bowl. Squeeze any lumps of sugar through your fingers, shaking the bowl a few times to bring the lumps to the surface.\n
+        \n
+•	Add the wet ingredients to the dry, along with the carrots, raisins and half the nuts, if using. Mix well to combine, then divide between the tins. Bake for 25-30 mins or until a skewer inserted into the centre of the cake comes out clean. If any wet mixture clings to the skewer, return to the oven for 5 mins, then check again. Leave to cool in the tins.\n
+\n
+•	To make the icing, beat the butter and sugar together until smooth. Add half the cream cheese and beat again, then add the rest (adding it bit by bit prevents the icing from splitting). Remove the cakes from the tins and sandwich together with half the icing. Top with the remaining icing and scatter with the remaining walnuts. Will keep in the fridge for up to five days. Best eaten at room temperature.\n
+</string>
+    <string name="cake2Desc">The perfect party cake, a Victoria sponge is a traditional bake everyone will love. Makes an easy wedding cake too</string>
+    <string name="cake2Ingred">200g caster sugar\n
+•200g softened butter\n
+•4 eggs beaten\n
+•200g self-raising flour\n
+•1 tsp baking powder\n
+•2 tbsp milk\n
+•For the filling\n
+•100g butter softened\n
+•140g icing sugar, sifted\n
+•drop vanilla extract (optional)\n
+•half a 340g jar good-quality strawberry jam (we used Tiptree Little Scarlet)\n
+•icing sugar, to decorate\n
+</string>
+    <string name="cake2Meth">1.	Heat oven to 190C/fan 170C/gas 5. Butter two 20cm sandwich tins and line with non-stick baking paper.\n
+        \n
+2.	In a large bowl, beat200g caster sugar, 200g softened butter, 4 beaten eggs, 200g self-raising flour, 1 tsp baking powder and 2 tbsp milk together until you have a smooth, soft batter.\n
+        \n
+3.	Divide the mixture between the tins, smooth the surface with a spatula or the back of a spoon.\n
+        \n
+4.	Bake for about 20 mins until golden and the cake springs back when pressed.\n
+        \n
+5.	Turn onto a cooling rack and leave to cool completely.\n
+        \n
+6.	To make the filling, beat the 100g softened butter until smooth and creamy, then gradually beat in 140g sifted icing sugar and a drop of vanilla extract (if you’re using it).\n
+        \n
+7.	Spread the buttercream over the bottom of one of the sponges. Top it with 170g strawberry jam and sandwich the second sponge on top.\n
+        \n
+8.	Dust with a little icing sugar before serving. Keep in an airtight container and eat within 2 days.\n
+</string>
+    <string name="cake3Desc">It\'s difficult not to demolish this classic by Tana Ramsay in just one sitting, so why not make two at once?</string>
+    <string name="cake3Ingred">•	225g unsalted butter, softened\n
+•	225g caster sugar\n
+•	4 eggs\n
+•	225g self-raising flour\n
+•	finely grated zest 1 lemon\n
+•	For the drizzle topping\n
+•	juice 1½ lemons\n
+•	85g caster sugar\n
+</string>
+    <string name="cake3Meth">•	Heat oven to 180C/fan 160C/gas 4.\n
+\n
+•	Beat together 225g softened unsalted butter and 225g caster sugar until pale and creamy, then add 4 eggs, one at a time, slowly mixing through.\n
+\n
+•	Sift in 225g self-raising flour, then add the finely grated zest of 1 lemon and mix until well combined.\n
+\n
+•	Line a loaf tin (8 x 21cm) with greaseproof paper, then spoon in the mixture and level the top with a spoon.\n
+\n
+•	Bake for 45-50 mins until a thin skewer inserted into the centre of the cake comes out clean.\n
+\n
+•	While the cake is cooling in its tin, mix together the juice of 1 ½ lemons and 85g caster sugar to make the drizzle.\n
+\n
+•	Prick the warm cake all over with a skewer or fork, then pour over the drizzle – the juice will sink in and the sugar will form a lovely, crisp topping.\n
+\n
+•	Leave in the tin until completely cool, then remove and serve. Will keep in an airtight container for 3-4 days, or freeze for up to 1 month.\n
+</string>
+    <string name="cake4Desc">If you know someone who likes bakewell tart, then they will just love this cake – it’s full of almond flavour and sandwiched with cherry jam</string>
+    <string name="cake4Ingred">For the cake\n
+•	200g butter well softened, plus extra for greasing\n
+•	200g golden caster sugar\n
+•	100g ground almond\n
+•	100g self-raising flour\n
+•	1 tsp baking powder\n
+•	½ tsp almond extract or essence\n
+•	4 large eggs\n
+\n
+For the filling and top\n
+•	½ a 340g jar morello cherry conserve\n
+•	175g icing sugar\n
+•	5-6 tsp water or lemon juice\n
+•	1 tbsp ready-toasted flaked almonds\n
+</string>
+    <string name="cake4Meth">•	Heat oven to 180C/160C fan/gas 4 and make sure there’s a shelf ready in the middle. Butter and line the bases of two 20cm round sandwich tins with baking paper.\n
+\n
+•	Using electric beaters, beat together all the cake ingredients with a pinch of salt until smooth, then spoon into the tins and level the tops. Bake for 30 mins or until golden and springy. Don’t open the oven before 25 mins cooking time has passed.\n
+\n
+•	When they’re ready, cool the sponges for a few mins, then tip out of the tins and cool completely on a wire rack. Make sure the top of one of the cakes is facing up as you’ll want a smooth surface for the icing later\n
+</string>
+    <string name="cake5Desc">The classic Victoria sandwich is always a teatime winner, every bite brings a taste of nostalgia</string>
+    <string name="cake5Ingred">•	200g unsalted butter, softened, plus extra for greasing\n
+•	200g caster sugar\n
+•	1 tsp vanilla extract\n
+•	4 medium eggs\n
+•	200g self-raising flour, plus extra for dusting\n
+•	about 6 tbsp raspberry jam\n
+•	250ml double cream, whipped\n
+•	icing sugar, for dusting\n
+</string>
+    <string name="cake5Meth">•	Heat oven to 190C/170C fan/gas 5. Grease and flour two 20cm sandwich tins.\n
+\n
+•	Place 200g softened unsalted butter, 200g caster sugar and 1 tsp vanilla extract into a bowl and beat well to a creamy consistency.\n
+\n
+•	Slowly beat in 4 medium eggs, one by one, then fold in 200g self-raising flour and mix well.\n
+\n
+•	Divide the mix between the cake tins, place into the oven and bake for about 20 mins until risen and golden brown. The cakes should spring back when gently pushed in the middle.\n
+\n
+•	When ready, remove from the oven and allow to cool for 5 mins in the tin, before turning out onto a wire rack and cooling completely.\n
+\n
+•	Spread about 6 tbsp raspberry jam onto one cake and top with 250ml whipped double cream. Sandwich the cakes together and dust with icing sugar\n
+</string>
+    <string name="cake6Desc">The classic combo is made extra sumptuous with mascarpone frosting - a traditional sponge for cake sales and parties</string>
+    <string name="cake6Ingred">•	250g pack softened butter plus extra for the tins\n
+•	100ml strong black coffee (made with 2 tbsp coffee granules), cooled\n
+•	280g self-raising flour\n
+•	250g golden caster sugar\n
+•	½ tsp baking powder\n
+•	4 eggs\n
+•	1 tsp vanilla extract\n
+•	85g walnut, 2 tbsp roughly chopped, the rest finely chopped\n
+•	For the filling\n
+•	100g icing sugar, sifted, plus a little extra for dusting\n
+•	150ml double cream\n
+•	100g mascarpone, at room temperature\n
+</string>
+    <string name="cake6Meth">•	Heat oven to 180C/160C fan/gas 4. Butter 2 x 20cm round cake tins and line with baking parchment. Set aside 1 tbsp of the coffee for the filling.\n
+\n
+•	Beat the butter, flour, sugar, baking powder, eggs, vanilla and half the remaining coffee in a large bowl with an electric whisk until lump-free. Fold in the finely chopped walnuts, then divide between the tins and roughly spread. Scatter the roughly chopped walnuts over one of the cakes. Bake the cakes for 25-30 mins until golden and risen, and a skewer poked in comes out clean. Drizzle the plain cake with the remaining coffee. Cool the cakes in the tins.\n
+\n
+•	Meanwhile, make the filling: beat together the icing sugar, cream and mascarpone, then fold in the reserved 2 tbsp coffee. Spread over the plain cake, then cover with the walnut-topped cake and dust with a little icing sugar.\n
+</string>
+    <string name="cake7Desc">Master the chocolate cake with an airy, light sponge and rich buttercream filling. It\'s simple enough for an afternoon tea but special enough for a party too</string>
+    <string name="cake7Ingred">For the cake\n
+        \n
+•	200g golden caster sugar\n
+•	200g unsalted butter, softened plus extra for the tins\n
+•	4 large eggs\n
+•	200g self-raising flour\n
+•	2 tbsp cocoa powder\n
+•	1 tsp baking powder\n
+•	½ tsp vanilla extract\n
+•	2 tbsp milk\n
+        \n
+For the buttercream\n
+        \n
+•	100g milk chocolate, chopped\n
+•	200g butter, softened\n
+•	400g icing sugar\n
+•	5 tbsp cocoa powder\n
+•	2 tbsp milk\n
+\n
+For the chocolate shards (optional)\n
+\n
+•	50g dark chocolate\n
+•	25g milk chocolate\n
+</string>
+    <string name="cake7Meth">Heat oven to 190C/170C fan/gas 5. Butter the base and sides of two 20cm round sandwich tins and line the bases with baking parchment.\n
+\n
+In a large bowl, beat together 200g golden caster sugar, 200g softened unsalted butter, 4 large eggs, 200g self-raising flour, 2 tbsp cocoa powder, 1 tsp baking powder, ½ tsp vanilla extract, 2 tbsp milk and a pinch of salt until pale.\n
+\n
+Divide the mixture between the prepared tins. Bake for 20 mins or until a skewer inserted into the centre of the cake comes out clean.\n
+\n
+Leave to cool in the tin for 10 mins, then turn out onto a wire rack to cool completely.\n
+\n
+For the buttercream, put 100g chopped milk chocolate in a heatproof bowl and melt in the microwave, stirring every 30 secs. Leave the melted chocolate to cool for 5 mins.\n
+\n
+Mash 200g softened butter and 400g icing sugar together with a fork, then switch to a wooden spoon or electric beaters, if you have them.\n
+\n
+Sift in 5 tbsp cocoa powder with a pinch of salt and pour in the melted chocolate and 2 tbsp milk. Mix again until smooth.\n
+\n
+On a cake stand or large plate, sandwich the cakes together with half of the buttercream, then spread the rest on top. Decorate with chocolate shards, if you like.\n
+\n
+To make chocolate shards: melt 50g dark chocolate and pour it onto a tray lined with baking parchment or foil.\n
+\n
+Now melt 25g milk chocolate and 25g white chocolate and drizzle them over the dark chocolate before it sets.\n
+\n
+Shake the tray gently to level the mixture then leave to set somewhere cool. Chop into shards\n
+</string>
+    <string name="cake8desc">A cross between banana bread and a drizzle cake, this easy banana loaf recipe is a quick bake that can be frozen and is great for using up overripe bananas</string>
+    <string name="cake8Ingred">•	•	140g butter, softened, plus extra for the tin\n
+•	140g caster sugar\n
+•	2 large eggs, beaten\n
+•	140g self-raising flour\n
+•	1 tsp baking powder\n
+•	2 very ripe bananas, mashed\n
+•	50g icing sugar\n
+•	handful dried banana chips, for decoration\n
+
+</string>
+    <string name="cake8Meth">1.	Heat oven to 180C/160C fan/gas 4.\n
+        \n
+2.	Butter a 2lb loaf tin and line the base and sides with baking parchment.\n
+        \n
+3.	Cream 140g softened butter and 140g caster sugar until light and fluffy, then slowly add 2 beaten large eggs with a little of the 140g flour.\n
+        \n
+4.	Fold in the remaining flour, 1 tsp baking powder and 2 mashed bananas.\n
+        \n
+5.	Pour into the tin and bake for about 30 mins until a skewer comes out clean.\n
+        \n
+6.	Cool in the tin for 10 mins, then remove to a wire rack.\n
+        \n
+7.	Mix 50g icing sugar with 2-3 tsp water to make a runny icing.\n
+        \n
+8.	Drizzle the icing across the top of the cake and decorate with a handful of banana chips\n
+
+</string>
+    <string name="cake9desc">You just can\'t beat a good chocolate cake, and this one is guaranteed to disappear as soon as you cut the first slice</string>
+    <string name="cake9Ingred">•	200g plain chocolate, broken into chunks (use one with a low cocoa content - we used Waitrose plain Belgian chocolate)\n
+•	200g butter\n
+•	200g light brown muscovado sugar\n
+•	100ml soured cream\n
+•	2 eggs, beaten\n
+•	200g self-raising flour\n
+•	5 tbsp cocoa powder\n
+•	hundreds and thousands, to decorate\n
+•	For the icing\n
+•	100g plain chocolate\n
+•	170g can condensed milk\n
+•	100g butter\n
+
+</string>
+    <string name="cake9Meth">1.	Heat oven to 160C/140C fan/gas 3. Line a 22 x 22cm square tin with baking parchment. Put the chocolate, butter and sugar into a large pan with 100ml hot water and gently melt together. Set aside for 2 mins, then stir in the soured cream followed by the eggs. Finally, stir or whisk in the flour and cocoa until lump-free, then pour into the prepared tin. Bake for 50-55 mins until a skewer comes out clean. Sit the tin on a wire rack to cool.\n
+        \n
+2.	Meanwhile, make the icing. Gently melt together icing ingredients in a heatproof bowl set over a pan of barely simmering water, then chill or cool until spreadable.\n
+        \n
+3.	To decorate, carefully turn out the cooled cake and peel off the baking parchment. Spread the icing over the top and scatter with hundreds and thousands, then cut the cake into triangles or fingers before serving.\n
+
+</string>
+    <string name="cake10Desc">Follow our step-by-step guide to rolling the perfect peach, cream and raspberry sponge roulade or Swiss roll</string>
+    <string name="cake10Ingred">• 50g butter, melted, then cooled, plus extra for the tin\n
+• 6 large eggs\n
+• 175g golden caster sugar, plus 3 tbsp extra for dusting\n
+• 120g self-raising flour\n
+• For the filling\n
+• 1 tsp vanilla extract\n
+• 420g can peach in syrup, drained (reserve the syrup), and roughly chopped\n
+• 75g raspberry coulis (we used ready-made from Waitrose)\n
+• 150g pack raspberry\n
+• 200ml double cream\n
+
+</string>
+    <string name="cake10Meth">Heat oven to 200C/180C fan/gas 6. Butter and line a 25 x 35cm Swiss roll tin with baking parchment. In a large bowl, whisk the eggs and sugar using an electric hand mixer until light in colour and fluffy – this will take about 5 mins.\n
+\n
+Sift the flour into the bowl. Using a large metal spoon, gently fold it into the eggs. Pour in the butter and quickly fold to combine. Be careful not to overmix, as this will knock all the air out of the whisked eggs. Pour the mixture into the lined tin and smooth out to the edges with your spoon. Bake for 12-15 mins until cooked through and springy.\n
+\n
+Lay a sheet of baking parchment, larger than your sponge, on your work surface and dust with the remaining sugar. Flip the sponge onto the sugary surface and carefully peel off the parchment lining the base of the sponge. Use the sheet underneath to help you tightly roll up your roulade. Leave to cool.\n
+\n
+To make the filling, add the vanilla and 3 tbsp of the peach syrup to the cream and whisk with electric beaters until it forms soft peaks. Fold in half of the chopped peaches and ripple in half the coulis.\n
+\n
+Unroll the roulade, remove the baking parchment and spread with the peachy cream. Scatter the raspberries and the remaining peaches over the top. Drizzle with the remaining coulis and tightly re-roll the roulade. Transfer to a serving plate or board and serve straight away.\n
+
+</string>
+    <string name="cake11Desc">A classic English sponge cake, delicately flavoured with lemon and almond - perfect for afternoon tea.</string>
+    <string name="cake11Ingred">• 175g butter, softened, plus extra for greasing\n
+• 175g golden caster sugar\n
+• 3 large eggs grated zest 1 lemon\n
+• few drops vanilla extract\n
+• 200g self-raising flour\n
+• 50g ground almond\n
+
+</string>
+    <string name="cake11Meth">1.	Heat oven to 170C/150C fan/gas 3. Butter and line the base of a 900g loaf tin with greaseproof paper. Using an electric whisk, beat together the butter and sugar until light and creamy then beat in the eggs one at a time. Add the lemon zest and vanilla. Now beat in the flour and almonds until you have a thick batter. The batter should be loose enough that it falls off a wooden spoon, if it’s too thick mix in a splash of milk.\n
+        \n
+2.	Tip the batter into the tin and smooth over the top. Bake for 55 mins – 1hr until a skewer inserted in the middle comes out clean. Remove from the oven then leave to cool for 15 mins then remove from the tin, peel away the paper and leave on a wire rack to cool completely before slicing. The loaf will keep in an airtight container for three days\n
+
+</string>
+    <string name="cake12Desc">A rustic fruit crumble cake with raisins and spice and a crunchy nutty topping - a spin on a classic</string>
+    <string name="cake12Ingred">• 140g butter, cut into small pieces, plus extra for the tin\n
+• 250g self-raising flour\n
+• 2 tsp mixed spice\n
+• 140g light muscovado sugar\n
+• 100g raisin\n
+• 3 large eggs, beaten\n
+• 2 apples, peeled, cored and chopped\n
+• 5 tbsp milk\n
+• For the topping\n
+• 1 rounded tbsp plain flour\n
+• 25g butter\n
+• 25g light muscovado sugar\n
+• 1 rounded tbsp roughly chopped hazelnuts\n
+
+</string>
+    <string name="cake12Meth">1.	Heat oven to 160C/140C fan/gas 3. Butter and line the base of a 2-litre loaf tin with baking parchment. Tip the flour and spice into a food processor and add the butter. Whizz to make fine crumbs, then mix in the sugar. Tip into a mixing bowl and stir in the raisins, eggs, apples and milk. Mix well until everything is evenly combined, then spoon into the prepared tin and smooth the top.\n
+        \n
+2.	To make the topping, rub the flour, butter and sugar through your fingers to make a rough crumble, then stir in the nuts. Sprinkle evenly over the cake mixture and bake for 50-55 mins, until firm to the touch and a fine skewer inserted into the centre comes out clean. Cool in the tin for 15 mins, then turn out and cool on a wire rack.\n
+
+</string>
+
+    //frozen dessert data
+    <string name="frozen1Desc">This frozen dessert has layers of buttery graham crumbs, a fruity filling and mounds of fresh berries. A no-bake sweet treat, perfect for summer entertaining</string>
+    <string name="frozen1Ingred">1 cup graham crumbs\n
+1/4 cup butter, melted\n
+1 pkg. (170 g) Baker\'s White Chocolate\n
+1 cup fresh strawberries, divided\n
+1 cup fresh raspberries, divided\n
+2 cups Philadelphia Cream Cheese Product\n
+1 can (300 mL) sweetened condensed milk\n
+1 tsp. orange zest\n
+1 cup thawed Cool Whip Whipped Topping\n
+1 cup fresh blueberries\n
+
+</string>
+    <string name="frozen1Meth">Mix graham crumbs and butter until blended.\n
+        \n
+Microwave chocolate in microwaveable bowl on MEDIUM 2 min. or until melted. Mash 1/2 cup each strawberries and raspberries in medium bowl. Beat cream cheese product in large bowl with mixer until creamy. Gradually beat in milk. Blend in melted chocolate, mashed berries and zest. Whisk in Cool Whip.\n
+        \n
+Spoon half the cream cheese mixture into plastic wrap-lined 9x5-inch loaf pan; top with half the crumb mixture. Repeat layers. Freeze 6 hours or until firm.\n
+        \n
+Remove dessert from freezer 15 min. before serving. Finely chop remaining strawberries; combine with remaining raspberries and blueberries. Invert dessert onto platter; remove plastic wrap. Spoon berry mixture over dessert.\n
+
+</string>
+    <string name="frozen2Desc">Light as a feather, this cool, satisfying dessert is delicious and impressive to serve. It\'s an excellent dessert to take to a potluck because it can be made ahead and stored in the freezer</string>
+    <string name="frozen2Ingred">2 teaspoons instant coffee granules\n
+1 tablespoon hot water\n
+1 cup cream-filled chocolate cookie crumbs\n
+3/4 cup chopped pecans, divided\n
+1/4 cup butter, melted\n
+2 packages (8 ounces each) cream cheese, softened\n
+1 can (14 ounces) sweetened condensed milk\n
+1/2 cup chocolate syrup\n
+1 carton (8 ounces) frozen whipped topping, thawed\n
+</string>
+    <string name="frozen2Meth">In a small bowl, dissolve coffee granules in hot water; set aside. In another bowl, combine cookie crumbs, 1/2 cup pecans and butter. Pat into a 13-in. x 9-in. dish.\n
+        \n
+In a large bowl, beat cream cheese until light and fluffy. Blend in coffee mixture, milk and chocolate syrup. Fold in whipped topping and spread over crust. Sprinkle the remaining pecans on top. Freeze.\n
+</string>
+    <string name="frozen3Desc">Black and White Frozen Dessert is one you will be proud to serve to company. The filling is very simple and the whole thing is quite easy to make.</string>
+    <string name="frozen3Ingred">•	1 package Oreo cookies (crushed)\n
+•	1/2 cup butter (melted)\n
+•	2 cups heavy whipping cream\n
+•	1/4 cup powdered sugar\n
+•	2 teaspoons vanilla\n
+•	2 (8-ounce) packages cream cheese (softened)\n
+•	1 (14-ounce) can sweetened condensed milk (NOT evaporated)\n
+•	1/2 cup hot fudge sauce\n
+</string>
+    <string name="frozen3Meth">1.	In large bowl, combine crushed cookies with melted butter until coated.\n
+        \n
+2.	Press 2/3 of this mixture into the bottom of a 13" x 9" glass baking dish and set aside.\n
+        \n
+3.	In medium bowl, combine cream with powdered sugar and vanilla until stiff peaks form.\n
+        \n
+4.	Place cream cheese in large bowl. Using the same beaters you used to beat the cream, beat the cream cheese until it is light and fluffy.\n
+        \n
+5.	Gradually beat in the sweetened condensed milk until smooth.\n
+        \n
+6.	Fold the whipped cream into the cream cheese mixture until combined.\n
+        \n
+7.	Spoon the filling over the cookies in the pan. Cover and freeze for 1 hour.\n
+        \n
+8.	Then drizzle the hot fudge sauce over the filling and gently spread to make a thin and even layer. Sprinkle with remaining cookie crumb mixture.\n
+        \n
+9.	Cover and freeze for 4 to 5 hours until firm.\n
+        \n
+10.	Cut into squares to serve. \n
+
+</string>
+    <string name="frozen4Desc">Three layers of whipped chocolate ganache are frozen together in this Triple Chocolate Frozen Dessert. This frosty dessert is creamy and smooth with an intense chocolate flavor.</string>
+    <string name="frozen4Ingred">•	7.5 ounces white chocolate finely chopped\n
+•	7.5 ounces milk chocolate finely chopped\n
+•	7.5 ouncesmdark chocolate finely chopped\n
+•	3 cups heavy cream\n
+•	2 teaspoons instant coffee\n
+•	Optional toppings: hot fudge sauce, chocolate chips, chopped nuts\n
+</string>
+    <string name="frozen4Meth">1.	Line a 9x5 loaf pan with aluminum foil so that it completely covers the pan and extends 2 inches above the pan.\n
+        \n
+2.	Place the white chocolate, milk chocolate and dark chocolate in three separate bowls.\n
+        \n
+3.	In a heavy-bottomed saucepan, heat the cream over medium-low heat until it is hot and simmering. Be sure to stir it often so it doesn\'t scorch.\n
+        \n
+4.	Pour 1 cup of cream over the white chocolate, 1 cup over the milk chocolate and the last cup over the dark chocolate. Stir each of the chocolate mixtures until it is creamy and smooth, with the chocolate completely melted.\n
+        \n
+5.	Add the instant coffee granules to the melted milk chocolate.\n
+        \n
+6.	Allow the mixtures to cool for 5-10 minutes. Then place the melted chocolates into the refrigerator for 30 minutes to cool.\n
+        \n
+7.	In the bowl of a stand mixer (or using a hand mixer), beat the milk chocolate mixture with the whip attachment on medium-high for 2-3 minutes. Watch it carefully and stop the mixture when it becomes thick like sour cream. Be careful not to overbeat. The colder the chocolate is, the faster it will whip up.\n
+        \n
+8.	Rinse the mixing bowl and whip attachment. Repeat this process with the white chocolate. Again, be careful not to overmix. Watch the mixture as it whips and stop it as soon as it becomes thick and creamy.\n
+        \n
+9.	Spread the white chocolate overtop the milk chocolate layer in the pan. Place the pan again in the freezer.\n
+        \n
+10.	Rinse the mixing bowl and whip attachment. Repeat this one last time with the dark chocolate.\n
+        \n
+11.	Spoon this mixture over the white chocolate layer and smooth the top.\n
+        \n
+12.	Cover the top of the pan with foil and freeze until firm, at the minimum, 3 hours.\n
+        \n
+13.	When you are ready to serve, lift up on the foil to remove the dessert from the pan. Invert the frozen dessert onto a serving plate and remove the foil.\n
+        \n
+14.	Top with the optional toppings, if desired.\n
+        \n
+15.	Slice and serve.\n
+
+</string>
+    <string name="frozen5Desc">A fast and delicious chocolate crème dessert. </string>
+    <string name="frozen5Ingred">1 lb (about 4 cups)\n
+        chocolate sandwich cookies, crushed (about 4 cups/1L) (500 g)\n
+1/2 cup	butter or margarine, melted (125 mL)\n
+1 pkg	brick-style vanilla ice cream (2 L)\n
+        \n
+CHOCOLATE SAUCE:\n
+1/2 cup	butter or margarine, melted (125 mL)\n
+2 cups	icing sugar (500 mL)\n
+1 1/2 cups	evaporated milk (375 mL)\n
+1 cup	CHIPITS Dark Chocolate Chips or CHIPITS Semi-Sweet Chocolate Chips (250 mL)\n
+2/3 cup	pecan pieces (optional) (150 mL)\n
+
+</string>
+    <string name="frozen5Meth">1.Toss crumbs with butter in a medium bowl until well coated. Press mixture onto the bottom a 9 x 13-inch (3.5 L) pan or two 8-inch (2 L) square pans.\n
+\n
+2. Cut ice cream into 1-inch (2.5 cm) slices; place over crust, cutting to fit, if necessary. Cover; freeze for 1 to 2 hours or until firm.\n
+\n
+3. Chocolate Sauce: Meanwhile, combine butter, sugar, milk and chocolate chips in a saucepan set over medium heat. Cook, stirring constantly, until mixture comes to a boil. Continue to boil, stirring, for 8 minutes. Remove from heat and cool to room temperature; stir until smooth.\n
+\n
+4. Remove pan from freezer; spread chocolate sauce over ice cream in an even layer. Sprinkle with pecan pieces (if using). Cover and freeze until firm.\n
+
+</string>
+    <string name="frozen6Desc">5 minutes + 4 ingredients = homemade Greek frozen yogurt.</string>
+    <string name="frozen6Ingred">4 cups frozen fruit\n
+1/2 cup plain Greek yogurt\n
+2 teaspoons vanilla extract\n
+3 Tablespoons honey\n
+</string>
+    <string name="frozen6Meth">In the bowl of a food processor, combine the frozen fruit, Greek yogurt, vanilla extract and honey. Process the mixture until it is creamy, about 5 minutes\n
+</string>
+    <string name="frozen7Desc">Master the chocolate cake with an airy, light sponge and rich buttercream filling. It\'s simple enough for an afternoon tea but special enough for a party too</string>
+    <string name="frozen7Ingred">8 ounces heavy cream (about 1 cup; 225g)\n
+1 teaspoon vanilla extract\n
+1/4 teaspoon rose water\n
+4 large eggs (about 7 ounces; 200g)\n
+4 1/2 ounces honey (about 1/3 cup; 125g)\n
+1/4 teaspoon plus 1/8 teaspoon (1.5g) Diamond Crystal kosher salt; for table salt, use about half as much by volume or the same weight\n
+
+</string>
+    <string name="frozen7Meth">Getting Ready: Line an approximately 9- by 5-inch loaf pan with plastic wrap or parchment, so that the bottom and sides have been covered completely (plastic is the easier liner, but will give the semifreddo a wrinkled appearance; parchment takes a little more effort, but keeps the semifreddo smooth).\n
+        \n
+2.
+Next, prepare a hot water bath in a wide pot or large Dutch oven, with a thick ring of crumpled tinfoil set inside (the foil should be high enough to reach above the water level, so that it will later prevent the stand mixer bowl from touching the hot water and the bottom of the pot). If the stand mixer bowl has a metal foot, use a glass or ceramic bowl instead, in which case the foil ring is not needed.\n
+        \n
+3.
+For the Semifreddo: Combine the cream, vanilla, and rose water in the bowl of a stand mixer fitted with a whisk attachment, and whip until stiff. The time will vary depending on the power of a given mixer, so keep a close eye on the process. Transfer to separate bowl or plate, then cover and refrigerate until needed. Rinse the stand mixer bowl and whisk, then wipe dry before re-using in step 5.\n
+        \n
+4.
+Combine eggs, honey, and salt in the bowl of a stand mixer (or in a glass or ceramic bowl, if the stand mixer bowl has a foot). Stir with a flexible spatula to combine. Place over the prepared water bath, so that the bowl does not touch the water, and adjust heat to maintain a gentle simmer.\n
+        \n
+5.
+Cook, stirring and scraping constantly with a flexible spatula, until warmed to 165F, about 10 minutes in a stainless steel bowl, or about 15 if using glass or ceramic. If the process seems to be taking much longer, simply increase the heat; top the hot water bath up with more hot water if needed at any point. Once the mixture reaches 165F, transfer to a stand mixer fitted with a whisk attachment. Whip on high speed until eggs are foamy, more than quadrupled in size, and thick enough to briefly mound up like soft-serve ice cream when dropped from the whisk, between 5 to 8 minutes, depending on the mixers power. The bowl itself should also feel cool to the touch.\n
+        \n
+6.
+Working by hand, gently whisk in half of the prepared whipped cream. Once smooth, add the remainder, whisk briefly, then fold with a flexible spatula until well combined. Scrape into the prepared loaf pan, cover tightly, and freeze until firm enough to slice, about 8 hours or to an internal temperature of 0F.\n
+        \n
+7.
+To Serve: Place a platter large enough to accommodate the loaf in the freezer until cold. Invert the semifreddo onto the chilled platter, using the plastic or parchment paper to pull it free. Leave the semifreddo covered, and return to the freezer until time for dessert. Then, tug loose the plastic or parchment, and top as desired with macerated fruit, toasted nuts, sauces, or whatever you prefer. Let the semifreddo stand a minute or two at room temperature, then slice with a chefs knife dipped or rinsed in hot water between each slice. Serve immediately.\n
+
+</string>
+    <string name="frozen8desc">a fast and easy prepared dessert which enchants everyone.</string>
+    <string name="frozen8Ingred">1 pkg. Refrigerated Chocolate Chip Cookie Bar Dough, broken into pieces, divided\n
+4 cups vanilla light ice cream, slightly softened\n
+
+</string>
+    <string name="frozen8Meth">preheat oven to 350° f. grease 9-inch springform pan.\n
+\n
+place 20 pieces (5/6 of bar) of dough in pan. (refrigerate remaining 4 pieces to bake later.) allow to soften 5 to 10 minutes. using fingertips, pat dough gently onto bottom and 1 inch up side of prepared pan.\n
+\n
+bake for 14 to 16 minutes or until light golden brown and center is still slightly soft. cool completely in pan on wire rack. bake remaining dough into cookies according to package directions.\n
+\n
+spread softened ice cream over cookie crust in pan; cover with plastic wrap and freeze for 1 to 2 hours or until firm. remove side of pan. cut dessert into wedges; top with crumbled cookies.\n
+
+
+</string>
+    <string name="frozen9desc">It has the most incredibly fluffy, cloud-like consistency. And tastes amazing!</string>
+    <string name="frozen9Ingred">25 to 30 chocolate sandwich cookies\n
+½ cup 1 stick unsalted butter (or butter alternative!), melted\n
+2 pints So Delicious Dairy Free Cold Brew Frozen Dessert or So Delicious Mocha Almond Fudge Frozen Dessert\n
+1 14 ounce can full-fat coconut milk\n
+1 cup sugar\n
+6 ounces semi-sweet chocolate, chopped\n
+1 container So Delicious Dairy Free Cocowhip Topping, thawed in the fridge\n
+</string>
+    <string name="frozen9Meth">Place the cookies in a food processor or blender and puree until small crumbs remain. Place the cookies in a large bowl and pour the melted butter over top. Stir until the crumbs are moistened. Press the mixture into a 9x13 inch baking dish. Stick the dish in the freezer for 30 minutes.\n
+        \n
+Remove the So Delicious frozen dessert from the freezer and allow it to soften for 10 to 15 minutes. Scoop it out into a bowl and stir it together with a large spoon or spatula, until it becomes slightly creamy and no large lumps remain. Spread the frozen mixture over top of the ice cream. Freeze for at least 60 minutes.\n
+        \n
+In a saucepan, combine the coconut milk, sugar and chopped chocolate over medium heat. Bring the mixture to a boil, stirring constantly so it doesn’t bubble over. Cook and stir the mixture for 15 to 20 minutes, until it thickens slightly. Remove it from the heat and let it cool to room temperature. It will thicken as it cools too!\n
+        \n
+Once cooled, pour the mixture over the frozen dessert. Stick it back in the freezer for at least 2 hours.\n
+        \n
+Top the fudge layer with the entire container of Coco Whip. Stick the dish back in the freezer for at least 30 minutes.\n
+        \n
+To serve, slice into squares and dust cocoa powder on top. Devour!\n
+
+</string>
+    <string name="frozen10Desc">Pineapple juice, coconut and rum added to ice cream create a cool tropical paradise.</string>
+    <string name="frozen10Ingred">1 ¼ cups graham cracker crumbs (about 16 squares)\n
+¼ cup butter (melted), or canola or soybean oil\n
+1 tablespoon sugar\n
+1 quart (4 cups) vanilla no-sugar-added, reduced-fat ice cream, slightly softened\n
+1 can (8 oz) crushed pineapple in juice, undrained\n
+2 teaspoons rum extract or 1/4 cup rum\n
+2 teaspoons coconut extract, if desired\n
+¼ cup flaked coconut, toasted*\n
+
+
+</string>
+    <string name="frozen10Meth">1 Heat oven to 350°F. In small bowl, mix cracker crumbs, butter and sugar. Press into ungreased 8-inch square (2-quart) glass baking dish. Bake about 10 minutes or until dry. Cool completely, about 1 hour.\n
+        \n
+2 In large bowl, beat ice cream, pineapple with juice and extracts with electric mixer on low speed just until blended. Spread in baked crust. Freeze about 6 hours or until firm.\n
+        \n
+3 Remove dessert from freezer about 5 minutes before serving. Sprinkle coconut over top.\n
+
+</string>
+    <string name="frozen11Desc">Frozen layers of airy chocolate mousse and chocolate angel food cake makes this dish easy-to-make and satisfying no matter what the weather. </string>
+    <string name="frozen11Ingred">•	2 cups crumbled chocolate angel-food cake (5 ounces)\n
+•	1 tablespoon brandy (optional)\n
+•	4 large egg whites\n
+•	1/2 cup sugar\n
+•	1/3 cup unsweetened cocoa powder, sifted\n
+•	1/2 cup cold heavy cream\n
+•	1/2 ounce bittersweet chocolate\
+
+
+</string>
+    <string name="frozen11Meth">1.	In a medium bowl, toss together cake and brandy, if desired. In another medium bowl, using an electric mixer, beat egg whites on high until foamy. With mixer on medium, gradually add sugar. Increase speed to high and beat until stiff, glossy peaks form, 2 minutes. With a rubber spatula, gently fold cocoa powder into egg white mixture.\n
+\n
+2.	In another medium bowl, beat cream on high until stiff peaks form, 3 minutes. Gently fold whipped cream into egg white mixture.\n
+\n
+3.	Fill each of 4 small glasses with 1/4 cup cake and top with heaping 1/4 cup mousse. Repeat to make a second layer with remaining cake and mousse. Freeze until firm, 3 hours (or up to overnight). Let sit 10 minutes at room temperature, then finely grate chocolate over tops to serve.\n
+
+</string>
+    <string name="frozen12Desc">Delicious and easy to make, this is a Great dessert to have on hand. Keep it ready in the freeze and your guests will thank you for the lovely frozen dessert.</string>
+    <string name="frozen12Ingred">•	2 1⁄2 cups crushed butter flavored crackers\n
+•	1⁄2 cup margarine, melted\n
+•	1⁄2 gallon light vanilla ice cream, softened\n
+•	1⁄2 cup cold milk\n
+•	2 (3 1/2 ounce) packages each instant coconut cream pudding mix\n
+•	1 (8 ounce) carton frozen light whipped dessert topping, thawed\n
+•	1⁄2 cup flaked coconut, toasted\n
+
+</string>
+    <string name="frozen12Meth">•	in a bowl, combine the cracker crumbs and margarine; mix well. Press into an ungreased 13X9 inch dish.\n
+        \n
+•	In a mixing bowl, combine the ice cream, milk and pudding mixes. A mixer works well for this. Spread over crust.\n
+        \n
+•	Top with whipped topping and coconut.\n
+        \n
+•	Cover and freeze for up to 2 months.\n
+•	Remove from freezer 15 minutes before serving.\n
+
+
+</string>
+
+    //creme data
+    <string name="creme1Desc">A top class recipe which makes you smile after just a few spoons.</string>
+    <string name="creme1Ingred">Chocolate cream:\n
+        \n
+•	220 g dark chocolate, finely chopped\n
+•	6 egg yolks\n
+•	80 g of sugar\n
+•	1 pack of vanilla sugar\n
+•	180 ml milk\n
+•	360 ml whipped cream\n
+•	1 shot of cherry Optional\n
+•	1 pinch of salt\n
+        \n
+Cherry layer:\n
+•	1 glass of sour cherries\n
+•	3 tbsp cornstarch\n
+•	1 pack of vanilla sugar\n
+•	50 g powdered sugar\n
+        \n
+Topping:\n
+•	100 ml whipped cream\n
+•	20 g powdered sugar\n
+•	Grated chocolate\n
+
+
+</string>
+    <string name="creme1Meth">For the chocolate cream:\n
+1.	Place the finely chopped dark chocolate in a heat-resistant bowl and put a sieve over it.\n
+        \n
+2.	Mix egg yolk, sugar, vanilla sugar, milk, whipped cream, cherry (optional) and salt in a saucepan and over medium heat for about 8 min. cook or until the mass has reached 80 ° C with a sugar thermometer. Without a thermometer, you can tell that the mass begins to thicken in a small amount.\n
+        \n
+3.	Pour through the sieve into the chocolate, let stand briefly, then stir.\n
+        \n
+4.	Spread the cream over 6-8 glasses, let cool briefly and then put in the fridge. The glasses should be 3/4 full.\n
+        \n
+For the cherry layer:\n
+1.	Drain the cherries and collect the juice in a saucepan.\n
+        \n
+2.	Mix the cherry juice with cornstarch, vanilla sugar and powdered sugar and simmer on a high heat until the juice thickens. Stir constantly.\n
+        \n
+3.	Then carefully fold in the cherries.\n
+        \n
+4.	Take the pots de crème out of the fridge and spread the cherry layer with a spoon.\n
+        \n
+5.	Again put in the fridge for about 3 hours.\n
+        \n
+For the topping:\n
+1.	Before serving, whisk the whipped cream together with the icing sugar, spread over the pots de crème and decorate with chocolate shavings.\n
+
+</string>
+    <string name="creme2Desc">Five simple ingredients – cream, vanilla, salt, eggs and sugar – make for an exquisitely rich and elegant dessert</string>
+    <string name="creme2Ingred">•	cups heavy or light cream, or half-and-half\n
+•	1 vanilla bean, split lengthwise, or 1 teaspoon vanilla extract\n
+•	⅛ teaspoon salt\n
+•	5 egg yolks\n
+•	½ cup sugar, more for topping\n
+
+</string>
+    <string name="creme2Meth">•1.	Heat oven to 325 degrees. In a saucepan, combine cream, vanilla bean and salt and cook over low heat just until hot. Let sit for a few minutes, then discard vanilla bean. (If using vanilla extract, add it now.)\n
+        \n
+2.	In a bowl, beat yolks and sugar together until light. Stir about a quarter of the cream into this mixture, then pour sugar-egg mixture into cream and stir. Pour into four 6-ounce ramekins and place ramekins in a baking dish; fill dish with boiling water halfway up the sides of the dishes. Bake for 30 to 40 minutes, or until centers are barely set. Cool completely. Refrigerate for several hours and up to a couple of days.\n
+        \n
+3.	When ready to serve, top each custard with about a teaspoon of sugar in a thin layer. Place ramekins in a broiler 2 to 3 inches from heat source. Turn on broiler. Cook until sugar melts and browns or even blackens a bit, about 5 minutes. Serve within two hours.\n
+
+</string>
+    <string name="creme3Desc">This classic chocolate mousse is light yet intensely chocolate. Don’t be fooled by the French name — it’s quick and easy to make!</string>
+    <string name="creme3Ingred">•	300g good-quality dark chocolate, roughly chopped\n
+•	3 eggs, at room temperature\n
+•	1/4 cup (55g) caster sugar\n
+•	1 tablespoon good-quality cocoa powder, sifted\n
+•	300ml thickened cream, plus extra whipped cream to serve\n
+•	Grated chocolate, to serve\n
+
+</string>
+    <string name="creme3Meth">•	Step 1\n
+Place the chocolate in a heatproof bowl over a pan of gently simmering water (don\'t let the bowl touch the water). Stir until melted. Remove bowl from heat and set aside to cool slightly.\n
+        \n
+•	Step 2\n
+Place eggs and sugar in a large bowl and beat with electric beaters for 5 minutes, or until mixture is pale, thick and doubled in volume. Fold in cocoa powder and cooled chocolate until combined.\n
+        \n
+•	Step 3\n
+In a separate bowl, whip cream until thickened (be careful not to over-beat). Use a large metal spoon to carefully fold the cream into the chocolate mixture, trying to keep the mixture as light as possible. Spoon into 6 serving glasses and chill in fridge for at least 1 hour. Remove from fridge 15 minutes before serving, then top with extra whipped cream and grated chocolate to serve.\n
+
+</string>
+    <string name="creme4Desc">Italian special crème dessert- something for everyone\n</string>
+    <string name="creme4Ingred">•	500 g mascarpone\n
+•	6 eggs\n
+•	150 g of sugar\n
+•	300 g ladyfingers\n
+•	750 ml espresso\n
+•	50 g of liqueur at will\n
+•	Unsweetened cocoa powder\n
+
+</string>
+    <string name="creme4Meth">1.	Separate the eggs and whip the egg yolks with the sugar until creamy. Then stir in the mascarpone and liqueur. Beat the egg whites until stiff and carefully lift the egg whites under the Galbani Mascarpone.\n
+        \n
+2.	Mix the lightly sweetened espresso in a small bowl with a little liqueur.\n
+        \n
+3.	Spread a third of the mascarpone cream on the bottom of a glass bowl and cover with a layer of ladyfingers soaked in espresso. Spread another layer of cream on top and cover with a second layer of ladyfingers.\n
+        \n
+4.	Pour the remaining mascarpone cream into a piping bag and decorate the tiramisu with it. Chill the tiramisu for at least 2 hours and dust with cocoa powder immediately before serving.\n
+
+</string>
+    <string name="creme5Desc">Creme patissiere, is a vanilla-flavored custard filling similar to pudding which is used in wide variety of French. </string>
+    <string name="creme5Ingred">•	2 cups whole milk\n
+•	1 vanilla bean (split lengthwise, or 1 teaspoon vanilla flavoring)\n
+•	5 egg yolks\n
+•	6 to 8 tablespoons sugar\n
+•	3 tablespoons flour\n
+•	3 tablespoons cornstarch\n
+
+
+</string>
+    <string name="creme5Meth">•	In the medium-sized saucepan, heat the milk with the vanilla bean over medium heat almost to boiling.\n
+        \n
+•	While the milk is heating, mix the egg yolks and sugar together in the large bowl.\n
+        \n
+•	Then whisk in the flour and cornstarch until the mixture is smooth.\n
+        \n
+•	Remove the vanilla bean from the milk.\n
+        \n
+•	Then gradually whisk the hot milk into the egg mixture. Do this very slowly as you don\'t want the yolks to cook from the heat of the milk.\n
+        \n
+•	Strain the mixture back into the saucepan.\n
+        \n
+•	Place over medium heat, stirring or constantly whisking until the mixture thickens and reaches a boil. Continue cooking for half a minute longer, stirring hard and constantly to keep the pastry cream smooth.\n
+        \n
+•	Remove the pastry cream from the heat. Stir in the vanilla flavoring at this point if you did not use a vanilla bean.\n
+        \n
+•	Place a layer of plastic wrap directly on the surface of the pastry cream to avoid a skin forming, and leave to cool to room temperature.\n
+        \n
+•	The pastry cream can be used when cool, or covered and refrigerated for up to several days until needed.\n
+        \n
+•	Stir chilled pastry cream before using.\n
+
+
+</string>
+    <string name="creme6Desc">A delicious dessert prepared in less than 5 minutes. Especially if you love Giotto you will love this dessert.</string>
+    <string name="creme6Ingred">	100g Giotto\n
+	500g cream\n
+	20g cocoa\n
+	25g sugar\n
+
+</string>
+    <string name="creme6Meth">1.	Put the Giotto with the cocoa and sugar in a blender and grind finely.\n
+        \n
+2.	Now pour everything on with cream, possibly scrape the edges a little and then whip the cream in the mixer until it is stiff.\n
+        \n
+3.	Now pour everything into small dessert glasses and chill until serving.\n
+</string>
+
+
+
+</resources>
