@@ -1,7 +1,7 @@
 Simple legacy Java application that I made in 2020 demonstrating XML, Recyclerviews, sqlite databases, fragments, cardviews etc
 
 Video Demonstration:
-[![DessertlyDemonstrationVideo](https://i.ytimg.com/vi/-zWu2xRhjA4/maxresdefault.jpg)](https://www.youtube.com/watch?v=-zWu2xRhjA4 "DessertlyDemonstrationVideo")
+[![DessertlyDemonstrationVideo](https://i.ytimg.com/vi/41JadCU7ryY/maxresdefault.jpg)](https://www.youtube.com/watch?v=41JadCU7ryY "DessertlyDemonstrationVideo")
 
 Screenshots:
 
